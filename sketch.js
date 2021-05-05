@@ -3,7 +3,7 @@ var database;
 var height;
 
 function preload(){
-   bg =loadImage("Images/1.png");
+   bg =loadImage("images/1.png");
    balloonImage1=loadAnimation("images/1.png");
    balloonImage2=loadAnimation("images/2.png","images/2.png",
    "images/2.png","images/3.png","images/3.png",
